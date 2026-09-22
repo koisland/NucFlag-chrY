@@ -6,4 +6,4 @@ dependencies:
   - pip
   - git-lfs
   - pip:
-    - git+https://github.com/logsdon-lab/NucFlag.git@feature/v1.0-subcommands
+    - git+https://github.com/logsdon-lab/NucFlag.git@49ea735c250cee1c23e25ebd2917bcec2282cfbc
